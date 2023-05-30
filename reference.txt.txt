@@ -1,2 +1,0 @@
-code is modify from https://github.com/taesungp/contrastive-unpaired-translation
-                    https://github.com/shanguanma/GeneratingNoisySpeechData/tree/main/Code/Contrastive%20Unpaired%20Translation%20-%20Modified
